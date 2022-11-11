@@ -1,9 +1,7 @@
-# Welcome to My Projects!
+# Welcome to My First Repo!
 
-This is where i show my passion with data, where i demonstrate my growing skills on data analysis and prediction models (in the upcoming future).
+The data has ride log for Q4 of 2020 for chicago city, 3 vendors included.
+I've done data cleaning, EDA , and Visualizations. 
+No predictive models were used.
 
-Projects Finished :
-1- E-scooter data 2020.
-
-Projects ongoing :
 
